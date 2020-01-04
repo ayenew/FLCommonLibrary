@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '12.0'
 
-  s.source_files = 'FLCommonLibrary/**/*'
+  s.source_files = 'FLCommonLibrary/*'
   
   # s.resource_bundles = {
   #   'FLCommonLibrary' => ['FLCommonLibrary/Assets/*.png']
